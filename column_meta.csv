@@ -1,0 +1,6 @@
+ColumnName,ColumnType
+transaction_id,string
+transaction_type,string
+customer_id,string
+amount,float
+currency,string
